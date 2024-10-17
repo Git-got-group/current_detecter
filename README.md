@@ -1,6 +1,6 @@
 # current_detecter
 
-A new Flutter project.
+This project use Magnetometer sensor for detecting magnetic field near device if magnetic  field detected and cross the threshold value then its show the current availbilty. you can see X, Y,X value on reltime and on graph data.
 
 ## Getting Started
 
