@@ -2,7 +2,6 @@
 
 This project use Magnetometer sensor for detecting magnetic field near device if magnetic  field detected and cross the threshold value for electricity then its show the current availbilty. you can see X, Y,X value on realtime and on graph data.
 
-
 https://github.com/user-attachments/assets/525572b2-4c39-4073-994f-8f9e59cd8d58
 
 
@@ -44,6 +43,7 @@ Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
 means.
+
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
