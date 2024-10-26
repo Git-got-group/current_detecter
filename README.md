@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/525572b2-4c39-4073-994f-8f9e59cd8d58
 ## Getting Started
 
 
-To use this project as a Chrome extension, follow the steps below:
+To use this project , follow the steps below:
 
 1. Clone this project using:
    
