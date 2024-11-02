@@ -1,4 +1,4 @@
-# current_detecter(Using Magnetometer senseor)
+# current_detector(Using Magnetometer senseor)
 
 This project use Magnetometer sensor for detecting magnetic field near device if magnetic  field detected and cross the threshold value for electricity then its show the current availbilty. you can see X, Y,X value on realtime and on graph data.
 
